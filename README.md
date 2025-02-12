@@ -12,8 +12,8 @@ A total of 56 instances from the authors' were tested. The original RMS dataset 
 
 
 The tested instances belong to the *normal congestion* category, with:  
-- \( m = \{4,6,8,10\} \) (number of machines)  
-- \( j = \{2,3,4,5,6\} \) (ratio job-to-machine)  
+- m = \{4,6,8,10\} (number of machines)  
+- r = \{2,3,4,5,6\} (ratio job-to-machine)  
 
 ## Instance Processing  
 
