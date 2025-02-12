@@ -22,8 +22,5 @@ The script **read_dataset.jl** reads these instances and stores them as an `inst
 ## Setup
 
 A `requirements` file is provided to install all necessary dependencies to run the model.  
-## Setup
-
-A `requirements` file is provided to install all necessary dependencies to run the model.  
 The implementation is written in **Julia**.  
 The solver used is **Gurobi**.
