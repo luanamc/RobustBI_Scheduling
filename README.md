@@ -15,9 +15,15 @@ The tested instances belong to the *normal congestion* category, with:
 - m = \{4,6,8,10\} (number of machines)  
 - r = \{2,3,4,5,6\} (ratio job-to-machine)  
 
-## Instance Processing  
+### Instance Processing  
 
 The script **read_dataset.jl** reads these instances and creates them as an `instanceRPMS` object, as defined in **instanceRPMS.jl**.
+
+## Robust Formulations Implementarion
+
+The **robust_models.jl** file contains the implementation of the two models used for result comparison in this paper. 
+ - Continuous formulation, based on the previously cited paper
+ - Bucket Indexed formulation, the new model proposed by us, which is the contribution of this paper
 
 ## Setup
 
