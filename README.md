@@ -22,9 +22,8 @@ The script **read_dataset.jl** reads these instances and stores them as an `inst
 ## Setup
 
 A `requirements` file is provided to install all necessary dependencies to run the model.  
+## Setup
 
-The solver used is **Gurobi**, which requires the optimizer to be installed. You can follow the official instructions for setting up Gurobi in Julia.  
-
-## Programming Language  
-
+A `requirements` file is provided to install all necessary dependencies to run the model.  
 The implementation is written in **Julia**.  
+The solver used is **Gurobi**.
