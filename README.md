@@ -1,4 +1,4 @@
-## Repository Description  
+## Robust Bucket-Indexed Optimization
 
 This repository contains the code for solving machine scheduling problems using a new robust optimization model based on the bucket-indexed mathematical formulation.  
 
@@ -17,7 +17,7 @@ The tested instances belong to the *normal congestion* category, with:
 
 ## Instance Processing  
 
-The script **read_dataset.jl** reads these instances and stores them as an `instanceRPMS`.
+The script **read_dataset.jl** reads these instances and creates them as an `instanceRPMS` object, as defined in **instanceRPMS.jl**.
 
 ## Setup
 
