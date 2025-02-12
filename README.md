@@ -22,8 +22,8 @@ The script **read_dataset.jl** reads these instances and creates them as an `ins
 ## Robust Formulations Implementarion
 
 The **robust_models.jl** file contains the implementation of the two models used for result comparison in this paper. 
- - Continuous formulation, based on the previously cited paper
- - Bucket Indexed formulation, the new model proposed by us, which is the contribution of this paper
+ - *Continuous formulation*, based on the previously cited paper
+ - *Bucket Indexed formulation*, the new model proposed by us, which is the contribution of this paper
 
 ## Setup
 
